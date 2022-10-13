@@ -1,0 +1,2 @@
+#print command
+print("hello world")
